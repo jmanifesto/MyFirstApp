@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "skills": {
+    "neurokit2": {
+      "source": "k-dense-ai/scientific-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/neurokit2/SKILL.md",
+      "computedHash": "77627a2cf772a7166565d79dfff7d36300b2eb6eaa5ee4c717ba05f125d7744c"
+    }
+  }
+}
