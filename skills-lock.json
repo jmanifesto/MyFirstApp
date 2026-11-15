@@ -1,6 +1,12 @@
 {
   "version": 2,
   "skills": {
+    "interpreting-electrocardiograms": {
+      "source": "casemark/skills",
+      "sourceType": "github",
+      "skillPath": "skills/med/interpreting-electrocardiograms/SKILL.md",
+      "computedHash": "5b02abfb4016a1162b19682a267048e4c9403c797ac349e887fd8b27a916153c"
+    },
     "neurokit2": {
       "source": "k-dense-ai/scientific-agent-skills",
       "sourceType": "github",
